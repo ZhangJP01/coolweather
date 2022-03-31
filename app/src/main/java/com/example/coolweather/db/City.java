@@ -10,7 +10,7 @@ public class City extends DataSupport {
     private int id;
     private String cityName;
     private int cityCode;
-    private int provinceID;  //上级 省的id
+    private int provinceId;  //上级 省的id
 
     public int getId() {
         return id;
@@ -36,11 +36,11 @@ public class City extends DataSupport {
         this.cityCode = cityCode;
     }
 
-    public int getProvinceID() {
-        return provinceID;
+    public int getProvinceId() {
+        return provinceId;
     }
 
-    public void setProvinceID(int provinceID) {
-        this.provinceID = provinceID;
+    public void setProvinceId(int provinceId) {
+        this.provinceId = provinceId;
     }
 }

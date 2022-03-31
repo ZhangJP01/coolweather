@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1485" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2857789855072464" />
+        <entry key="app/src/main/res/layout/choose_area_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_choose_area_fragment.xml" value="0.25" />
         <entry key="app/src/main/res/xml/litepal.xml" value="0.28177083333333336" />
       </map>
     </option>
@@ -13,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>

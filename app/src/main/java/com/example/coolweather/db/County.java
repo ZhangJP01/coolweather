@@ -10,7 +10,7 @@ public class County extends DataSupport {
     private int id;
     private String countyName;
     private int countyCode;
-    private int cityID;   //上级 市 的id
+    private int cityId;   //上级 市 的id
 
     public int getId() {
         return id;
@@ -36,11 +36,11 @@ public class County extends DataSupport {
         this.countyCode = countyCode;
     }
 
-    public int getCityID() {
-        return cityID;
+    public int getCityId() {
+        return cityId;
     }
 
-    public void setCityID(int cityID) {
-        this.cityID = cityID;
+    public void setCityId(int cityId) {
+        this.cityId = cityId;
     }
 }
